@@ -64,7 +64,7 @@ proyecto-bootstrap
    </head>
    <body>
        <div class="container">
-           <img src="/public/imagen.png" alt="Imagen desde public" class="img-fluid">
+           <img src="imagen.png" alt="Imagen desde public" class="img-fluid">
            <h1 class="text-primary">Hola, Bootstrap 5!</h1>
            <p>Esta es una página de ejemplo con estilos personalizados.</p>
        </div>
